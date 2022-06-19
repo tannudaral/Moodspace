@@ -1,9 +1,9 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
     apiKey: "AIzaSyDyrLH8yq1DtUbxlIIO_QC2UJ5Z-5Sk8Fs",
-    authDomain: "moodio-5c183.firebaseapp.com",
-    projectId: "moodio-5c183",
-    storageBucket: "moodio-5c183.appspot.com",
+    authDomain: "Moodspace-5c183.firebaseapp.com",
+    projectId: "Moodspace-5c183",
+    storageBucket: "Moodspace-5c183.appspot.com",
     messagingSenderId: "523668244475",
     appId: "1:523668244475:web:297805da57dde76668ad5e"
 };

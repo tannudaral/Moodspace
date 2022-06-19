@@ -1,6 +1,6 @@
 /**
-* Template Name: Moodio - v4.7.0
-* Template URL: https://bootstrapmade.com/Moodio-free-bootstrap-theme/
+* Template Name: Moodspace - v4.7.0
+* Template URL: https://bootstrapmade.com/Moodspace-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
